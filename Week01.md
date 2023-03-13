@@ -2,9 +2,9 @@
 
 ## Task 1. View Your Computer Information 
 
-hfjshjkfdhjkshfjkhsdjhkjsd
+![ALT TEXT] ()
 
 ## Task 2. Display Linux Web Server in VirtualBox
 
-djnsfkdjnfjsdnjkfsdnfsdmfjksdnd
+
 
