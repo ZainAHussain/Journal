@@ -8,7 +8,7 @@
  
 
 ## Task 3. Browse to OpenWRT Websites
-![ALT TEXT] ()
+![ALT TEXT] (https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20123150.png)
 
 
 
