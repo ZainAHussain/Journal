@@ -2,7 +2,19 @@
 
 ## Task 1. View Your Computer Information 
 
+### Computer Information
+
 ![ALT TEXT] (https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20113545.png)
+
+### Basic Network Information
+
+
+### Networking Testing
+
+
+### Printing and Formatting
+
+
 
 ## Task 2. Display Linux Web Server in VirtualBox
  ![ALT TEXT] (https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20121244.png)
