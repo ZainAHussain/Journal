@@ -3,9 +3,21 @@
 ## Task 1. View Your Computer Information 
 
 ### Computer Information
+<img
+  src="https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20113629.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <img
   src="https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20113545.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  
+  <img
+  src="https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20113954.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
