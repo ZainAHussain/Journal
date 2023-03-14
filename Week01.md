@@ -57,8 +57,9 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-    <img
-  src="https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20102300.png"
+ 
+  <img
+  src=" https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20102300.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
