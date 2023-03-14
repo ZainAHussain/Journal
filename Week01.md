@@ -51,10 +51,30 @@
   
 
 ### Networking Testing
-
+  <img
+  src="https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20101751.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+    <img
+  src="https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20102300.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+    <img
+  src="https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20102433.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Printing and Formatting
-
+  <img
+  src=""
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 ## Task 2. Display Linux Web Server in VirtualBox
