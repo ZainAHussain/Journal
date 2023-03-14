@@ -59,12 +59,12 @@
   
  
 <img
-  src="https://github.com/ZainAHussain/Journal/blob/main/Annotation%202023-03-08%20113629.png"
+  src="https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20102300.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-    <img
+ <img
   src="https://github.com/ZainAHussain/Journal/blob/main/Screenshot%202023-03-15%20102433.png"
   alt="Alt text"
   title="Optional title"
